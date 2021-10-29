@@ -1,0 +1,251 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="390" height="844" viewBox="0 0 390 844">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f8f8f8"/>
+      <stop offset="1" stop-color="#b7b8c5"/>
+    </linearGradient>
+    <filter id="Path_24" x="-39.602" y="-37.501" width="459.085" height="153.874" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_25" x="-35.602" y="-22.678" width="459.085" height="153.874" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_26" x="-32.602" y="-7.854" width="459.085" height="153.819" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_27" x="-29.602" y="5.681" width="459.085" height="153.874" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="393" height="178" transform="translate(-3)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="390" height="844" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="390.478" height="357.46" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect width="390" height="545.546" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Login_103">
+      <rect width="390" height="844"/>
+    </clipPath>
+  </defs>
+  <g id="Login_103" data-name="Login – 103" clip-path="url(#clip-Login_103)">
+    <rect width="390" height="844" fill="#fff"/>
+    <g id="Group_67" data-name="Group 67">
+      <rect id="Rectangle_22" data-name="Rectangle 22" width="393" height="844" transform="translate(-3)" fill="url(#linear-gradient)"/>
+      <g id="Rectangle_23" data-name="Rectangle 23" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="390" height="844" stroke="none"/>
+        <rect x="0.5" y="0.5" width="389" height="843" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_32" data-name="Group 32" transform="translate(164 4.5)" opacity="0" style="mix-blend-mode: screen;isolation: isolate">
+      <path id="Path_32" data-name="Path 32" d="M2033.5,8661.908v38.724" transform="translate(-1827.691 -8427.686)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="8.5" style="mix-blend-mode: screen;isolation: isolate"/>
+      <path id="Path_33" data-name="Path 33" d="M2033.5,8661.908v31.2" transform="translate(-1799.494 -8420.162)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="8.5" style="mix-blend-mode: screen;isolation: isolate"/>
+      <path id="Path_34" data-name="Path 34" d="M2033.5,8661.908v35.785" transform="translate(-1785.396 -8424.38)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="8.5" style="mix-blend-mode: screen;isolation: isolate"/>
+      <line id="Line_26" data-name="Line 26" y1="49.814" transform="translate(219.907 223.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="8.5" style="mix-blend-mode: screen;isolation: isolate"/>
+      <line id="Line_27" data-name="Line 27" x2="63" transform="translate(195 276.5)" fill="none" stroke="#959595" stroke-linecap="round" stroke-width="5" style="mix-blend-mode: screen;isolation: isolate"/>
+    </g>
+    <g id="Ellipse_35" data-name="Ellipse 35" transform="translate(40 157)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <circle cx="27" cy="27" r="27" stroke="none"/>
+      <circle cx="27" cy="27" r="26.5" fill="none"/>
+    </g>
+    <path id="Path_44" data-name="Path 44" d="M997.836,10580.244l-15.693,16.884,15.693,13.981" transform="translate(-924.346 -10411.677)" fill="none" stroke="#50558b" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" opacity="0.83"/>
+    <g id="Group_35" data-name="Group 35" transform="translate(-29.736 -106.36)" opacity="0.79">
+      <g transform="matrix(1, 0, 0, 1, 29.74, 106.36)" filter="url(#Path_24)">
+        <path id="Path_24-2" data-name="Path 24" d="M418.436,8523.537s-77.944-13.119-134.531,13.978,29.371,80.031-30.954,102.859-273.986-19.093-273.986-19.093" transform="translate(-8.7 -8547.36)" fill="none" stroke="#ee81ad" stroke-width="9"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 29.74, 106.36)" filter="url(#Path_25)">
+        <path id="Path_25-2" data-name="Path 25" d="M418.436,8523.537s-77.944-13.119-134.531,13.978,29.371,80.031-30.954,102.859-273.986-19.093-273.986-19.093" transform="translate(-4.7 -8532.54)" fill="none" stroke="#d589b7" stroke-width="9"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 29.74, 106.36)" filter="url(#Path_26)">
+        <path id="Path_26-2" data-name="Path 26" d="M418.436,8523.537s-77.944-13.119-134.531,13.978,29.371,80.031-30.954,102.859c-17.494,6.621-47.884,7.795-82.306,6.122-83.974-4.082-191.68-25.215-191.68-25.215" transform="translate(-1.7 -8517.71)" fill="none" stroke="#9da5d3" stroke-width="9"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 29.74, 106.36)" filter="url(#Path_27)">
+        <path id="Path_27-2" data-name="Path 27" d="M418.436,8523.537s-77.944-13.119-134.531,13.978,29.371,80.031-30.954,102.859-273.986-19.093-273.986-19.093" transform="translate(1.3 -8504.18)" fill="none" stroke="#61b1e7" stroke-width="9"/>
+      </g>
+    </g>
+    <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+      <g id="Group_6" data-name="Group 6">
+        <g id="Group_5" data-name="Group 5" clip-path="url(#clip-path-2)">
+          <g id="Group_4" data-name="Group 4">
+            <g id="Group_3" data-name="Group 3" clip-path="url(#clip-path-2)">
+              <rect id="Rectangle_2" data-name="Rectangle 2" width="0.693" height="13.192" transform="translate(343.358 450.387)" fill="#ffe8c0"/>
+              <path id="Path_1" data-name="Path 1" d="M359,21v4.158A2.255,2.255,0,0,0,359,21Z" transform="translate(14.36 0.827)" opacity="0.4"/>
+              <path id="Path_2" data-name="Path 2" d="M357.84,20.253v5.939a1.864,1.864,0,0,1-1.865,1.864H338.9a1.865,1.865,0,0,1-1.865-1.864V20.253a1.865,1.865,0,0,1,1.865-1.864h17.071A1.864,1.864,0,0,1,357.84,20.253Zm1.04,0a2.906,2.906,0,0,0-2.9-2.9H338.9a2.906,2.906,0,0,0-2.9,2.9v5.939a2.906,2.906,0,0,0,2.9,2.9h17.071a2.906,2.906,0,0,0,2.9-2.9Z" transform="translate(13.44 0.683)" fill-rule="evenodd" opacity="0.35"/>
+              <path id="Rectangle_3" data-name="Rectangle 3" d="M.667,0H18.054a.666.666,0,0,1,.666.666V6.921a.667.667,0,0,1-.667.667H.667A.667.667,0,0,1,0,6.921V.667A.667.667,0,0,1,.667,0Z" transform="translate(351.625 20.112)"/>
+              <path id="Path_3" data-name="Path 3" d="M325.943,26.537a.327.327,0,0,0-.009-.475,3.559,3.559,0,0,0-4.6,0,.325.325,0,0,0-.01.475l2.078,2.1a.325.325,0,0,0,.461,0Zm-2.308-2.894a5.1,5.1,0,0,1,3.426,1.319.324.324,0,0,0,.451-.005l1.2-1.213a.335.335,0,0,0,0-.477,7.451,7.451,0,0,0-10.143,0,.335.335,0,0,0,0,.477l1.2,1.213a.324.324,0,0,0,.451.005A5.1,5.1,0,0,1,323.635,23.643Zm0-3.946a8.992,8.992,0,0,1,6.191,2.472.321.321,0,0,0,.451,0l1.2-1.213a.335.335,0,0,0,0-.474,11.339,11.339,0,0,0-15.683,0,.335.335,0,0,0,0,.474l1.2,1.213a.321.321,0,0,0,.451,0A8.987,8.987,0,0,1,323.635,19.7Z" transform="translate(12.628 0.683)"/>
+              <path id="Path_4" data-name="Path 4" d="M309.267,17.667h1.04a1.039,1.039,0,0,1,1.04,1.039v9.007a1.039,1.039,0,0,1-1.04,1.039h-1.04a1.039,1.039,0,0,1-1.04-1.039V18.706A1.039,1.039,0,0,1,309.267,17.667Zm-4.854,2.425h1.04a1.04,1.04,0,0,1,1.04,1.039v6.582a1.039,1.039,0,0,1-1.04,1.039h-1.04a1.039,1.039,0,0,1-1.04-1.039V21.131A1.04,1.04,0,0,1,304.413,20.092Zm-4.854,2.425h1.04a1.039,1.039,0,0,1,1.04,1.039v4.158a1.039,1.039,0,0,1-1.04,1.039h-1.04a1.039,1.039,0,0,1-1.04-1.039V23.556A1.04,1.04,0,0,1,299.56,22.517ZM294.707,24.6h1.04a1.04,1.04,0,0,1,1.04,1.039v2.079a1.039,1.039,0,0,1-1.04,1.039h-1.04a1.039,1.039,0,0,1-1.04-1.039V25.635A1.039,1.039,0,0,1,294.707,24.6Z" transform="translate(11.747 0.696)"/>
+              <path id="Path_5" data-name="Path 5" d="M36.9,21.2a1.91,1.91,0,0,0-1.54.778,2.978,2.978,0,0,0-.629,1.936,2.474,2.474,0,0,0,.661,1.817,2.167,2.167,0,0,0,1.6.671,2.127,2.127,0,0,0,1.7-.767,2.723,2.723,0,0,0,.655-1.829,2.879,2.879,0,0,0-.322-1.318,2.25,2.25,0,0,0-.891-.961A2.434,2.434,0,0,0,36.9,21.2Zm2.832,4.7a4.4,4.4,0,0,1-1.024,1.013,4.272,4.272,0,0,1-1.014.5,3.433,3.433,0,0,1-1.084.167,3.031,3.031,0,0,1-2.441-1.09,3.929,3.929,0,0,1-.919-2.623,4.067,4.067,0,0,1,.478-1.973,3.509,3.509,0,0,1,1.326-1.378,3.6,3.6,0,0,1,1.856-.5,3.851,3.851,0,0,1,2.195.691,4.218,4.218,0,0,1,1.55,2.077,9.694,9.694,0,0,1,.526,3.421,7.982,7.982,0,0,1-1.191,4.617,3.889,3.889,0,0,1-3.4,1.722,3.392,3.392,0,0,1-2.276-.66,1.957,1.957,0,0,1-.762-1.507V30.3h1.417v.075a.881.881,0,0,0,.4.671,1.91,1.91,0,0,0,1.2.316,2.553,2.553,0,0,0,1.647-.564,3.781,3.781,0,0,0,1.117-1.844,8.573,8.573,0,0,0,.413-2.645Z" transform="translate(-4.67 -2.212)"/>
+              <path id="Path_6" data-name="Path 6" d="M42.175,24.527H40.157v-2h2.018Zm0,6.5H40.157V29.021h2.018Z" transform="translate(-1.456 -1.048)"/>
+              <path id="Path_7" data-name="Path 7" d="M48.5,27.294V22.135l-4.11,5.159Zm1.417,4.784H48.5v-3.6H42.828v-1.18L48.5,20.259h1.417v7.035h1.653v1.18H49.921Z" transform="translate(-0.213 -2.099)"/>
+              <path id="Path_8" data-name="Path 8" d="M53.029,32.078V21.728l-2.393.955V21.363l2.393-1.1h1.417V32.078Z" transform="translate(3.42 -2.099)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Scroll_Group_5" data-name="Scroll Group 5" transform="translate(0 246.679)" clip-path="url(#clip-path-5)" style="isolation: isolate">
+      <path id="Path_76" data-name="Path 76" d="M0,0H390V101.091H0Z" fill="#fff" opacity="0.58"/>
+      <path id="Path_103" data-name="Path 103" d="M0,0H390V101.091H0Z" transform="translate(0 109.091)" fill="#fff" opacity="0.58"/>
+      <path id="Path_106" data-name="Path 106" d="M0,0H390V101.091H0Z" transform="translate(0 327.273)" fill="#fff" opacity="0.58"/>
+      <path id="Path_107" data-name="Path 107" d="M0,0H390V101.091H0Z" transform="translate(0 545.455)" fill="#fff" opacity="0.58"/>
+      <path id="Path_104" data-name="Path 104" d="M0,0H390V101.091H0Z" transform="translate(0 218.182)" fill="#fff" opacity="0.58"/>
+      <path id="Path_105" data-name="Path 105" d="M0,0H390V101.091H0Z" transform="translate(0 436.364)" fill="#fff" opacity="0.58"/>
+      <path id="Path_110" data-name="Path 110" d="M0,0H390V101.091H0Z" transform="translate(0 654.546)" fill="#fff" opacity="0.58"/>
+      <path id="Path_108" data-name="Path 108" d="M0,0H390V101.091H0Z" transform="translate(0 872.729)" fill="#fff" opacity="0.58"/>
+      <path id="Path_111" data-name="Path 111" d="M0,0H390V101.091H0Z" transform="translate(0 981.683)" fill="#fff" opacity="0.58"/>
+      <path id="Path_112" data-name="Path 112" d="M0,0H390V101.091H0Z" transform="translate(0 1090.637)" fill="#fff" opacity="0.58"/>
+      <path id="Path_113" data-name="Path 113" d="M0,0H390V101.091H0Z" transform="translate(0 1199.591)" fill="#fff" opacity="0.58"/>
+      <path id="Path_115" data-name="Path 115" d="M0,0H390V101.091H0Z" transform="translate(0 1308.545)" fill="#fff" opacity="0.58"/>
+      <path id="Path_109" data-name="Path 109" d="M0,0H390V101.091H0Z" transform="translate(0 763.637)" fill="#fff" opacity="0.58"/>
+      <g id="Group_50" data-name="Group 50" transform="translate(94.716 -575.454)">
+        <text id="_1" data-name="1" transform="translate(-64 625)" fill="#0b112e" font-size="22" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">1</tspan></text>
+      </g>
+      <text id="F.1A_Chen_K.M." data-name="F.1A  Chen K.M." transform="translate(64 64.659)" fill="#0b112e" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0" xml:space="preserve">F.1A  Chen K.M.</tspan></text>
+      <text id="_00033_" data-name="00033  " transform="translate(64 42.432)" fill="#0b112e" font-size="11" font-family="ArialMT, Arial" letter-spacing="0.02em" opacity="0.663"><tspan x="0" y="0" xml:space="preserve">00033  </tspan></text>
+      <text id="圈數_20_總時間_25:40.7_每圈平均_01:16.9" data-name="圈數： 20   
+總時間： 25:40.7   
+每圈平均： 01:16.9" transform="translate(239 34.319)" fill="#0b112e" font-size="13" font-family="PingFangSC-Regular, PingFang SC" letter-spacing="0.02em"><tspan x="0" y="0">圈數：</tspan><tspan y="0" xml:space="preserve" font-family="ArialMT, Arial"> 20   </tspan><tspan x="0" y="22">總時間：</tspan><tspan y="22" xml:space="preserve" font-family="ArialMT, Arial"> 25:40.7   </tspan><tspan x="0" y="44">每圈平均：</tspan><tspan y="44" xml:space="preserve" font-family="ArialMT, Arial"> 01:16.9</tspan></text>
+      <g id="Group_53" data-name="Group 53" transform="translate(0 -224.679)">
+        <text id="_2" data-name="2" transform="translate(30.716 378.498)" fill="#0b112e" font-size="22" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">2</tspan></text>
+        <text id="F.1A_Lam_K.H." data-name="F.1A  Lam K.H." transform="translate(62 393.999)" fill="#0b112e" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0" xml:space="preserve">F.1A  Lam K.H.</tspan></text>
+        <text id="圈數_20_總時間_25:42.2_每圈平均_01:16.9" data-name="圈數： 20   
+總時間： 25:42.2   
+每圈平均： 01:16.9" transform="translate(239 366.498)" fill="#0b112e" font-size="13" font-family="PingFangSC-Regular, PingFang SC" letter-spacing="0.02em"><tspan x="0" y="0">圈數：</tspan><tspan y="0" xml:space="preserve" font-family="ArialMT, Arial"> 20   </tspan><tspan x="0" y="22">總時間：</tspan><tspan y="22" xml:space="preserve" font-family="ArialMT, Arial"> 25:42.2   </tspan><tspan x="0" y="44">每圈平均：</tspan><tspan y="44" xml:space="preserve" font-family="ArialMT, Arial"> 01:16.9</tspan></text>
+        <text id="_00038_" data-name="00038  " transform="translate(61 370.498)" fill="#0b112e" font-size="11" font-family="ArialMT, Arial" letter-spacing="0.02em" opacity="0.663"><tspan x="0" y="0" xml:space="preserve">00038  </tspan></text>
+      </g>
+      <g id="Group_54" data-name="Group 54" transform="translate(0 -112.725)">
+        <g id="Group_52" data-name="Group 52" transform="translate(94.716 -245.502)">
+          <text id="_3" data-name="3" transform="translate(-64 625)" fill="#0b112e" font-size="22" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">3</tspan></text>
+        </g>
+        <text id="F.1A_Li_H.Y." data-name="F.1A  Li H.Y." transform="translate(64 396.634)" fill="#0b112e" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0" xml:space="preserve">F.1A  Li H.Y.</tspan></text>
+        <text id="F.1A_Li_H.Y.-2" data-name="F.1A  Li H.Y." transform="translate(64 609.679)" fill="#0b112e" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0" xml:space="preserve">F.1A  Li H.Y.</tspan></text>
+        <text id="F.1A_Cheuk_P.L." data-name="F.1A  Cheuk P.L." transform="translate(64 500.726)" fill="#0b112e" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0" xml:space="preserve">F.1A  Cheuk P.L.</tspan></text>
+        <text id="圈數_20_總時間_25:43.0_每圈平均_01:16.9" data-name="圈數： 20   
+總時間： 25:43.0   
+每圈平均： 01:16.9" transform="translate(239 366.498)" fill="#0b112e" font-size="13" font-family="HiraginoSans-W2, Hiragino Sans" letter-spacing="0.02em"><tspan x="0" y="0" xml:space="preserve">圈數： 20   </tspan><tspan x="0" y="22" xml:space="preserve">總時間： 25:43.0   </tspan><tspan x="0" y="44">每圈平均： 01:16.9</tspan></text>
+      </g>
+      <g id="Group_55" data-name="Group 55" transform="translate(0 -6.771)">
+        <g id="Group_52-2" data-name="Group 52" transform="translate(94.716 -243.502)">
+          <text id="_4" data-name="4" transform="translate(-64 625)" fill="#0b112e" font-size="22" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">4</tspan></text>
+        </g>
+        <text id="圈數_20_總時間_25:43.7_每圈平均_01:16.9" data-name="圈數： 20   
+總時間： 25:43.7   
+每圈平均： 01:16.9" transform="translate(238 366.498)" fill="#0b112e" font-size="13" font-family="HiraginoSans-W2, Hiragino Sans" letter-spacing="0.02em"><tspan x="0" y="0" xml:space="preserve">圈數： 20   </tspan><tspan x="0" y="22" xml:space="preserve">總時間： 25:43.7   </tspan><tspan x="0" y="44">每圈平均： 01:16.9</tspan></text>
+      </g>
+      <g id="Group_56" data-name="Group 56" transform="translate(0 99.183)">
+        <g id="Group_52-3" data-name="Group 52" transform="translate(94.716 -242.502)">
+          <text id="_5" data-name="5" transform="translate(-64 625)" fill="#0b112e" font-size="22" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">5</tspan></text>
+        </g>
+        <text id="圈數_20_總時間_25:43.7_每圈平均_01:16.9-2" data-name="圈數： 20   
+總時間： 25:43.7   
+每圈平均： 01:16.9" transform="translate(239 366.498)" fill="#0b112e" font-size="13" font-family="HiraginoSans-W2, Hiragino Sans" letter-spacing="0.02em"><tspan x="0" y="0" xml:space="preserve">圈數： 20   </tspan><tspan x="0" y="22" xml:space="preserve">總時間： 25:43.7   </tspan><tspan x="0" y="44">每圈平均： 01:16.9</tspan></text>
+      </g>
+      <g id="Group_57" data-name="Group 57" transform="translate(-1.858 211.136)">
+        <text id="_6" data-name="6" transform="translate(30.716 382.498)" fill="#0b112e" font-size="22" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">6</tspan></text>
+        <text id="圈數_20_總時間_25:40.3_每圈平均_01:16.9" data-name="圈數： 20   
+總時間： 25:40.3   
+每圈平均： 01:16.9" transform="translate(239 366.498)" fill="#0b112e" font-size="13" font-family="PingFangSC-Regular, PingFang SC" letter-spacing="0.02em"><tspan x="0" y="0">圈數：</tspan><tspan y="0" xml:space="preserve" font-family="ArialMT, Arial"> 20   </tspan><tspan x="0" y="22">總時間：</tspan><tspan y="22" xml:space="preserve" font-family="ArialMT, Arial"> 25:40.3   </tspan><tspan x="0" y="44">每圈平均：</tspan><tspan y="44" xml:space="preserve" font-family="ArialMT, Arial"> 01:16.9</tspan></text>
+      </g>
+      <g id="Group_58" data-name="Group 58" transform="translate(-1.858 318.09)">
+        <g id="Group_52-4" data-name="Group 52" transform="translate(94.716 -242.502)">
+          <text id="_7" data-name="7" transform="translate(-64 625)" fill="#0b112e" font-size="22" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">7</tspan></text>
+        </g>
+        <text id="圈數_20_總時間_25:53.8_每圈平均_01:16.9" data-name="圈數： 20   
+總時間： 25:53.8   
+每圈平均： 01:16.9" transform="translate(239 366.498)" fill="#0b112e" font-size="13" font-family="PingFangSC-Regular, PingFang SC" letter-spacing="0.02em"><tspan x="0" y="0">圈數：</tspan><tspan y="0" xml:space="preserve" font-family="ArialMT, Arial"> 20   </tspan><tspan x="0" y="22">總時間：</tspan><tspan y="22" xml:space="preserve" font-family="ArialMT, Arial"> 25:53.8   </tspan><tspan x="0" y="44">每圈平均：</tspan><tspan y="44" xml:space="preserve" font-family="ArialMT, Arial"> 01:16.9</tspan></text>
+        <text id="F.1A_Lo_S.Y." data-name="F.1A  Lo S.Y." transform="translate(63.858 397.771)" fill="#0b112e" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0" xml:space="preserve">F.1A  Lo S.Y.</tspan></text>
+        <text id="_00011_" data-name="00011  " transform="translate(62.858 374.226)" fill="#0b112e" font-size="11" font-family="ArialMT, Arial" letter-spacing="0.02em" opacity="0.663"><tspan x="0" y="0" xml:space="preserve">00011  </tspan></text>
+      </g>
+      <g id="Group_59" data-name="Group 59" transform="translate(-1.858 430.044)">
+        <g id="Group_52-5" data-name="Group 52" transform="translate(94.716 -243.502)">
+          <text id="_8" data-name="8" transform="translate(-64 625)" fill="#0b112e" font-size="22" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">8</tspan></text>
+        </g>
+        <text id="圈數_20_總時間_25:59.1_每圈平均_01:16.9" data-name="圈數： 20   
+總時間： 25:59.1   
+每圈平均： 01:16.9" transform="translate(239 366.498)" fill="#0b112e" font-size="13" font-family="PingFangSC-Regular, PingFang SC" letter-spacing="0.02em"><tspan x="0" y="0">圈數：</tspan><tspan y="0" xml:space="preserve" font-family="ArialMT, Arial"> 20   </tspan><tspan x="0" y="22">總時間：</tspan><tspan y="22" xml:space="preserve" font-family="ArialMT, Arial"> 25:59.1   </tspan><tspan x="0" y="44">每圈平均：</tspan><tspan y="44" xml:space="preserve" font-family="ArialMT, Arial"> 01:16.9</tspan></text>
+      </g>
+      <g id="Group_60" data-name="Group 60" transform="translate(-1.858 541.998)">
+        <g id="Group_52-6" data-name="Group 52" transform="translate(94.716 -245.502)">
+          <text id="_9" data-name="9" transform="translate(-64 625)" fill="#0b112e" font-size="22" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">9</tspan></text>
+        </g>
+        <text id="圈數_20_總時間_25:43.7_每圈平均_01:16.9-3" data-name="圈數： 20   
+總時間： 25:43.7   
+每圈平均： 01:16.9" transform="translate(238 366.271)" fill="#0b112e" font-size="13" font-family="PingFangSC-Regular, PingFang SC" letter-spacing="0.02em"><tspan x="0" y="0">圈數：</tspan><tspan y="0" xml:space="preserve" font-family="ArialMT, Arial"> 20   </tspan><tspan x="0" y="22">總時間：</tspan><tspan y="22" xml:space="preserve" font-family="ArialMT, Arial"> 25:43.7   </tspan><tspan x="0" y="44">每圈平均：</tspan><tspan y="44" xml:space="preserve" font-family="ArialMT, Arial"> 01:16.9</tspan></text>
+        <text id="F.1A_Cheng_K.C." data-name="F.1A  Cheng K.C." transform="translate(64.858 395.044)" fill="#0b112e" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0" xml:space="preserve">F.1A  Cheng K.C.</tspan></text>
+        <text id="_00009_" data-name="00009  " transform="translate(63.858 371.498)" fill="#0b112e" font-size="11" font-family="ArialMT, Arial" letter-spacing="0.02em" opacity="0.663"><tspan x="0" y="0" xml:space="preserve">00009  </tspan></text>
+      </g>
+      <g id="Group_61" data-name="Group 61" transform="translate(-1.858 650.952)">
+        <g id="Group_52-7" data-name="Group 52" transform="translate(94.716 -241.502)">
+          <text id="_10" data-name="10" transform="translate(-74 624)" fill="#0b112e" font-size="22" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">10</tspan></text>
+        </g>
+        <text id="圈數_20_總時間_25:43.7_每圈平均_01:16.9-4" data-name="圈數： 20   
+總時間： 25:43.7   
+每圈平均： 01:16.9" transform="translate(239 366.498)" fill="#0b112e" font-size="13" font-family="PingFangSC-Regular, PingFang SC" letter-spacing="0.02em"><tspan x="0" y="0">圈數：</tspan><tspan y="0" xml:space="preserve" font-family="ArialMT, Arial"> 20   </tspan><tspan x="0" y="22">總時間：</tspan><tspan y="22" xml:space="preserve" font-family="ArialMT, Arial"> 25:43.7   </tspan><tspan x="0" y="44">每圈平均：</tspan><tspan y="44" xml:space="preserve" font-family="ArialMT, Arial"> 01:16.9</tspan></text>
+        <text id="F.1A_Lee_K.K." data-name="F.1A  Lee K.K." transform="translate(64.858 397.771)" fill="#0b112e" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0" xml:space="preserve">F.1A  Lee K.K.</tspan></text>
+        <text id="_00010_" data-name="00010  " transform="translate(63.858 374.226)" fill="#0b112e" font-size="11" font-family="ArialMT, Arial" letter-spacing="0.02em" opacity="0.663"><tspan x="0" y="0" xml:space="preserve">00010  </tspan></text>
+      </g>
+      <g id="Group_62" data-name="Group 62" transform="translate(-1.858 759.906)">
+        <g id="Group_52-8" data-name="Group 52" transform="translate(94.716 -242.502)">
+          <text id="_11" data-name="11" transform="translate(-74 624)" fill="#0b112e" font-size="22" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">11</tspan></text>
+        </g>
+        <text id="圈數_20_總時間_25:43.7_每圈平均_01:16.9-5" data-name="圈數： 20   
+總時間： 25:43.7   
+每圈平均： 01:16.9" transform="translate(239 366.498)" fill="#0b112e" font-size="13" font-family="PingFangSC-Regular, PingFang SC" letter-spacing="0.02em"><tspan x="0" y="0">圈數：</tspan><tspan y="0" xml:space="preserve" font-family="ArialMT, Arial"> 20   </tspan><tspan x="0" y="22">總時間：</tspan><tspan y="22" xml:space="preserve" font-family="ArialMT, Arial"> 25:43.7   </tspan><tspan x="0" y="44">每圈平均：</tspan><tspan y="44" xml:space="preserve" font-family="ArialMT, Arial"> 01:16.9</tspan></text>
+        <text id="F.1A_Chen_H.Y." data-name="F.1A  Chen H.Y." transform="translate(61.858 397.771)" fill="#0b112e" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0" xml:space="preserve">F.1A  Chen H.Y.</tspan></text>
+        <text id="_00002_" data-name="00002  " transform="translate(60.858 374.226)" fill="#0b112e" font-size="11" font-family="ArialMT, Arial" letter-spacing="0.02em" opacity="0.663"><tspan x="0" y="0" xml:space="preserve">00002  </tspan></text>
+      </g>
+      <g id="Group_63" data-name="Group 63" transform="translate(-1.858 868.861)">
+        <g id="Group_52-9" data-name="Group 52" transform="translate(93.716 -243.502)">
+          <text id="_12" data-name="12" transform="translate(-74 625)" fill="#0b112e" font-size="22" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">12</tspan></text>
+        </g>
+        <text id="F.1A_Lam_S.H." data-name="F.1A  Lam S.H." transform="translate(62.858 396.271)" fill="#0b112e" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0" xml:space="preserve">F.1A  Lam S.H.</tspan></text>
+        <text id="_00027_" data-name="00027  " transform="translate(61.858 372.726)" fill="#0b112e" font-size="11" font-family="ArialMT, Arial" letter-spacing="0.02em" opacity="0.663"><tspan x="0" y="0" xml:space="preserve">00027  </tspan></text>
+      </g>
+      <g id="Group_64" data-name="Group 64" transform="translate(-1.858 868.861)">
+        <text id="圈數_20_總時間_25:43.7_每圈平均_01:16.9-6" data-name="圈數： 20   
+總時間： 25:43.7   
+每圈平均： 01:16.9" transform="translate(239 366.498)" fill="#0b112e" font-size="13" font-family="PingFangSC-Regular, PingFang SC" letter-spacing="0.02em"><tspan x="0" y="0">圈數：</tspan><tspan y="0" xml:space="preserve" font-family="ArialMT, Arial"> 20   </tspan><tspan x="0" y="22">總時間：</tspan><tspan y="22" xml:space="preserve" font-family="ArialMT, Arial"> 25:43.7   </tspan><tspan x="0" y="44">每圈平均：</tspan><tspan y="44" xml:space="preserve" font-family="ArialMT, Arial"> 01:16.9</tspan></text>
+      </g>
+      <g id="Group_65" data-name="Group 65" transform="translate(-1.858 977.815)">
+        <g id="Group_52-10" data-name="Group 52" transform="translate(94.716 -243.502)">
+          <text id="_13" data-name="13" transform="translate(-74 626)" fill="#0b112e" font-size="22" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">13</tspan></text>
+        </g>
+        <text id="圈數_20_總時間_25:43.7_每圈平均_01:16.9-7" data-name="圈數： 20   
+總時間： 25:43.7   
+每圈平均： 01:16.9" transform="translate(239 366.498)" fill="#0b112e" font-size="13" font-family="PingFangSC-Regular, PingFang SC" letter-spacing="0.02em"><tspan x="0" y="0">圈數：</tspan><tspan y="0" xml:space="preserve" font-family="ArialMT, Arial"> 20   </tspan><tspan x="0" y="22">總時間：</tspan><tspan y="22" xml:space="preserve" font-family="ArialMT, Arial"> 25:43.7   </tspan><tspan x="0" y="44">每圈平均：</tspan><tspan y="44" xml:space="preserve" font-family="ArialMT, Arial"> 01:16.9</tspan></text>
+        <text id="F.1A_Kwok_C.H." data-name="F.1A  Kwok C.H." transform="translate(61.858 398.271)" fill="#0b112e" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0" xml:space="preserve">F.1A  Kwok C.H.</tspan></text>
+        <text id="_00014_" data-name="00014  " transform="translate(60.858 374.726)" fill="#0b112e" font-size="11" font-family="ArialMT, Arial" letter-spacing="0.02em" opacity="0.663"><tspan x="0" y="0" xml:space="preserve">00014  </tspan></text>
+      </g>
+      <text id="_00015_" data-name="00015  " transform="translate(63 260.363)" fill="#0b112e" font-size="11" font-family="ArialMT, Arial" letter-spacing="0.02em" opacity="0.663"><tspan x="0" y="0" xml:space="preserve">00015  </tspan></text>
+      <text id="_00029_" data-name="00029  " transform="translate(63 473.408)" fill="#0b112e" font-size="11" font-family="ArialMT, Arial" letter-spacing="0.02em" opacity="0.663"><tspan x="0" y="0" xml:space="preserve">00029  </tspan></text>
+      <text id="_00045_" data-name="00045  " transform="translate(63 364.455)" fill="#0b112e" font-size="11" font-family="ArialMT, Arial" letter-spacing="0.02em" opacity="0.663"><tspan x="0" y="0" xml:space="preserve">00045  </tspan></text>
+      <text id="F.1A_Chan_Y.Y." data-name="F.1A  Chan Y.Y." transform="translate(64 608.907)" fill="#0b112e" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0" xml:space="preserve">F.1A  Chan Y.Y.</tspan></text>
+      <text id="_00022_" data-name="00022  " transform="translate(63 585.362)" fill="#0b112e" font-size="11" font-family="ArialMT, Arial" letter-spacing="0.02em" opacity="0.663"><tspan x="0" y="0" xml:space="preserve">00022  </tspan></text>
+      <text id="F.1A_Chu_K.K." data-name="F.1A  Chu K.K." transform="translate(64 827.816)" fill="#0b112e" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0" xml:space="preserve">F.1A  Chu K.K.</tspan></text>
+      <text id="_00020_" data-name="00020  " transform="translate(63 804.27)" fill="#0b112e" font-size="11" font-family="ArialMT, Arial" letter-spacing="0.02em" opacity="0.663"><tspan x="0" y="0" xml:space="preserve">00020  </tspan></text>
+    </g>
+    <text id="_1A" data-name="1A" transform="translate(175.5 188.5)" fill="#0b112e" font-size="30" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">1A</tspan></text>
+    <text id="最後更新_20210723" data-name="最後更新： 20210723" transform="translate(259.5 234.932)" fill="#0b112e" font-size="11" font-family="PingFangSC-Regular, PingFang SC" letter-spacing="0.02em" opacity="0.501"><tspan x="0" y="0">最後更新：</tspan><tspan y="0" xml:space="preserve" font-family="ArialMT, Arial"> 20210723</tspan></text>
+    <text id="排名" transform="translate(178 217.433)" fill="#0b112e" font-size="17" font-family="AppleGothic" letter-spacing="0.02em"><tspan x="0" y="0">排名</tspan></text>
+  </g>
+</svg>
